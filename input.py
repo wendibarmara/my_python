@@ -6,5 +6,5 @@ nama_depan = input('Masukkan nama depan: ')
 print('String yang diinput adalah:', nama_depan)
 nama_belakang = input('Masukkan nama belakang: ')
 print('nama belakang adalah:', nama_belakang)
-gabungan=nama_depan + nama_belakang
+gabungan=nama_depan +" "+ nama_belakang
 print("nama gabungannya adalah ",gabungan)
