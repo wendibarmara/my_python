@@ -23,6 +23,7 @@ def printMonth(num):
         month= 'November'
     elif num == 12:
         month= 'December'
+    else:
+        month = 'Invalid Month'
     return month
-
 print('Month is:', printMonth(10))
